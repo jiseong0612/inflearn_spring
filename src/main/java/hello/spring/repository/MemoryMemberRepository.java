@@ -6,8 +6,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-import hello.spring.domain.Member;
+import org.springframework.stereotype.Repository;
 
+import hello.spring.domain.Member;
+@Repository
 public class MemoryMemberRepository implements MemberRepository{
 	private static Map<Long, Member> store = new HashMap<Long, Member>();
 	private static long sequence = 0L;
