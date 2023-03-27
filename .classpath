@@ -12,7 +12,7 @@
 			<attribute name="gradle_used_by_scope" value="main,test"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" output="bin/test" path="src/test/java">
+	<classpathentry kind="src" output="bin/test/hello/core" path="src/test/java">
 		<attributes>
 			<attribute name="test" value="true"/>
 			<attribute name="gradle_scope" value="test"/>
