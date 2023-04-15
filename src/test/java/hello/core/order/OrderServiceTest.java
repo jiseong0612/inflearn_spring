@@ -4,15 +4,17 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
 
+import hello.core.AppConfig;
 import hello.core.member.Grade;
 import hello.core.member.Member;
 import hello.core.member.MemberRepository;
-import hello.core.member.MemoryMemberRepository;
 
 public class OrderServiceTest {
-	MemberRepository memberRepository = new MemoryMemberRepository();
-	OrderService orderService = new OrderServiceImpl();
-
+	AppConfig appConfig = new AppConfig();
+	
+	MemberRepository memberRepository = appConfig.memberRepository();
+	OrderService orderService = appConfig.orderService();
+	
 	@Test
 	void createOrder() {
 		Long memberId = 1L;
