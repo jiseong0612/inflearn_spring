@@ -15,4 +15,6 @@ https://github.com/jiseong0612/inflearn_spring/tree/d993880bf68bdc55d5f1feb1ee10
 스프링 핵심 원리 - 기본편-조회한 빈이 모두 필요할 때, List, Map : 인터페이스, 두 개의 impl 빈을 모두 받아 빈 이름으로 분기처리하여 작업하고 싶을 때<br>
 https://www.inflearn.com/course/lecture?courseSlug=%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8&unitId=55380&tab=curriculum&q=769717&category=questionDetail<br>
 <br>
-
+스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 - 스프링 MVC 웹 페이지 만들기 - 상품 목록  타임리프 : 타임리프 사용법 을 알아보자<br>
+https://www.inflearn.com/course/lecture?courseSlug=%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1&unitId=71233&category=questionDetail&tab=curriculum
+<br>
