@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<span th:utext="${data}">fasdfadsfsa</span> <br>
+	<span>컨텐츠 안에 출력하기 [(${data})]</span> <br>
+	
+	<span th:text='${userMap["userA"]}'>asdfas</span><br>
+	<span th:text="${userMap['userB']}">cccc</span>
+
+</body>
+</html>
