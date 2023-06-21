@@ -18,3 +18,6 @@ https://www.inflearn.com/course/lecture?courseSlug=%EC%8A%A4%ED%94%84%EB%A7%81-%
 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 - 스프링 MVC 웹 페이지 만들기 - 상품 목록  타임리프 : 타임리프 사용법 을 알아보자<br>
 https://www.inflearn.com/course/lecture?courseSlug=%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1&unitId=71233&category=questionDetail&tab=curriculum
 <br>
+스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 - 타임리프 - 스프링 통합과 폼 -체크 박스 - 단일1 : 체크박스가 off인 경우 false로 세팅하는 법, hidden, name="_open" <br>
+https://www.inflearn.com/course/lecture?courseSlug=%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2&unitId=83277&category=questionDetail&tab=curriculum&q=292000
+<br>
